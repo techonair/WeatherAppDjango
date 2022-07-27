@@ -1,2 +1,2 @@
 # WeatherAppDjango
-Weather App Django
+Weather Web App using in Django Framework
