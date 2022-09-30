@@ -1,2 +1,2 @@
 # WeatherAppDjango
-Weather Web App using in Django Framework
+Weather Web App built using Django Framework and Open Weather Map API
